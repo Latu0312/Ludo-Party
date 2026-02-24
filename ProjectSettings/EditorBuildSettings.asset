@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 575da4946d28b854ebd3b855fc2d08b3
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 567dc346b695c844080aff473c1ee3dc
+  - enabled: 0
+    path: Assets/Scenes/SignupScene.unity
+    guid: d5baa4d3e86cf5b49b5ccb6cc5afd440
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 9f50aeef904a3c143976726c8b1238e2
+  - enabled: 1
+    path: Assets/Scenes/WaitingRoomScene.unity
+    guid: ec88bc3fe4f6ad548ae178bb127e5883
+  - enabled: 0
+    path: Assets/Scenes/Usernamescene.unity
+    guid: 8d2cb4f4122610e47b9751eddf5ac47c
+  - enabled: 1
+    path: Assets/Scenes/GameScene Backup.unity
+    guid: 6714ee704a0b78541aaaf159b35fd3f6
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 6659b2a99e45b3549aac59303c97207d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

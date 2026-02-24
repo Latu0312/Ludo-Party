@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3efe4ca685bbb0743a7ff966b9cd75dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200151
+  packageName: Dice d6 game ready PBR
+  packageVersion: 2.0
+  assetPath: Assets/Dice_6/Materials/Plastic Rough Scratched red.mat
+  uploadId: 450042
