@@ -4,7 +4,7 @@
 Welcome to **Ludo-Party**, a modern twist on the classic Vietnamese board game. Play with friends or challenge opponents online in two exciting modes: **Basic** and **Funny**.
 
 ---
-
+https://www.youtube.com/watch?v=pk6L_ro_arc
 ## 🎮 Game Modes
 
 - **Basic Mode**  
